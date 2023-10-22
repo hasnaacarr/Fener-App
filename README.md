@@ -1,7 +1,7 @@
 
 # Fener App
 
-Ortam ışık miktarına göre çalışan fener modu 
+Ortam ışık miktarına göre çalışan fener modu,
 ekran ışığı modu ve sabit fener moduyla karanlıkta ve farklı koşullarda kolayca çalışabilirsiniz. Bu hızlı ledli fener zorlu bir durumda olduğunuzda size yardımcı olabilir.
 Varsayılan koyu tema ile birlikte gelir. İnternet erişimi olmaması size diğer uygulamalardan daha fazla gizlilik , güvenlik ,ve istikrar sağlar.
 ## Renk Referansı
