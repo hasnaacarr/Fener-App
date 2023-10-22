@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fener</string>
+    <string name="openclose">Sabit Aç/Kapat</string>
+    <string name="ortamisigi">Ortam ışığına göre</string>
+    <string name="ekranisigi">Ekran Işığı</string>
+
+</resources>
